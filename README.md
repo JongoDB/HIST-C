@@ -1,4 +1,4 @@
-# 🍯 HIST-C: Honey I Shrunk The Codebase
+# 🍯 HIST-C: Honey I Shrunk The Codebase!
 
 > *"Honey, I shrunk the codebase!"* - Transform your massive projects into LLM-ready, compressed packages with maximum efficiency and zero hassle.
 
@@ -21,7 +21,7 @@ HIST-C is a powerful web-based tool that compresses entire codebases into optimi
 
 ## 🚀 Quick Start
 
-1. **Open HIST-C**: Simply open the `index.html` file in any modern browser
+1. **Open HIST-C**: Simply open the `index.html` file (or `hist-c.html` file, if downloading as a release) in any modern browser
 2. **Drop Your Project**: Drag and drop your project folder onto the upload area
 3. **Configure Settings**: Choose your compression level and filtering options
 4. **Shrink Away**: Click "Shrink My Codebase" and watch the magic happen!
@@ -120,7 +120,7 @@ HIST-C is a powerful web-based tool that compresses entire codebases into optimi
 ### Option 1: Download and Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hist-c.git
+git clone https://github.com/JongoDB/hist-c.git
 cd hist-c
 
 # Open in browser
@@ -139,7 +139,7 @@ python -m http.server 8000  # then visit http://localhost:8000
 We love contributions! Here's how you can help make HIST-C even better:
 
 ### 🐛 Bug Reports
-- Use the [Issues](https://github.com/yourusername/hist-c/issues) page
+- Use the [Issues](https://github.com/JongoDB/hist-c/issues) page
 - Include browser version and project details
 - Provide sample files if possible
 
@@ -152,7 +152,7 @@ We love contributions! Here's how you can help make HIST-C even better:
 ### 💻 Development Setup
 ```bash
 # Fork and clone the repo
-git clone https://github.com/yourusername/hist-c.git
+git clone https://github.com/JongoDB/hist-c.git
 cd hist-c
 
 # Make your changes to index.html
@@ -176,21 +176,6 @@ cd hist-c
 - [ ] **Cloud Integration**: Optional cloud processing for large projects
 - [ ] **Team Sharing**: Shareable compressed codebase links
 
-## 🏆 Testimonials
-
-> *"HIST-C saved me hours of manual cleanup when sharing my React project with ChatGPT. The compression is incredible!"* - Sarah D., Frontend Developer
-
-> *"Finally, a tool that understands what LLMs need. The file tree feature alone is worth it."* - Mike R., Full-Stack Engineer  
-
-> *"Used HIST-C for a code review with 200+ files. Compressed it down to something actually manageable!"* - Alex K., Engineering Manager
-
-## 📞 Support
-
-- **📖 Documentation**: Check this README for detailed usage
-- **🐛 Issues**: [GitHub Issues](https://github.com/yourusername/hist-c/issues)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/yourusername/hist-c/discussions)
-- **📧 Email**: support@hist-c.dev
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -207,7 +192,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🎬 Ready to shrink your codebase?
 
-**[Download HIST-C](https://github.com/yourusername/hist-c/releases/tag/v1.0.0)**
+**[Download HIST-C](https://github.com/JongoDB/hist-c/releases)**
 
 *Made with 🍯 by developers, for developers*
 
