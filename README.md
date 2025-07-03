@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🎬 Ready to shrink your codebase?
 
-**[Download HIST-C](https://github.com/yourusername/hist-c/releases)**
+**[Download HIST-C](https://github.com/yourusername/hist-c/releases/tag/v1.0.0)**
 
 *Made with 🍯 by developers, for developers*
 
